@@ -17,7 +17,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-441b2531a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/algo_warrior_7425)
 [![Topcoder](https://img.shields.io/badge/Topcoder-%2329A8E0.svg?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/201304)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarashutosh45381@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashutosh-7070)
@@ -145,9 +144,6 @@ const ashutosh = {
 
 <br/>
 
-**⭐ Star some repos if you find them interesting — it means a lot! ⭐**
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:1a0533&height=100&section=footer" width="100%"/>
 
